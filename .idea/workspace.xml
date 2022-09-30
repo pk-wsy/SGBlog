@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd85bb6a-7b95-4580-ad4e-0cc884e51b58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Mybatis Mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\xuexi\coding\software\Maven\maven-factory" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../software/Maven/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\xuexi\coding\software\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EgsAqxCp6xMMSHGgaWKn3dvMg6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/xuexi/coding/项目/博客系统（前后端分离）/SGBlog",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "7579647028f88ffa25dc1ebf88e56d94"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sangeng.domain.dto" />
+      <recent name="com.sangeng.domain" />
+      <recent name="com.sangeng.domain.vo" />
+      <recent name="com.sangeng.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xuexi\编程\项目\博客系统（前后端分离）\SGBlog\sangeng-framework\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sangeng.filter" />
+      <recent name="com.sangeng.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogAdminApplication">
+    <configuration name="TestDemo.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sangeng-blog" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sangeng-blog" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sangeng-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sangeng.BlogAdminApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SanGengBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sangeng-blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sangeng.SanGengBlogApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BlogAdminApplication" />
+        <item itemvalue="Spring Boot.SanGengBlogApplication" />
+        <item itemvalue="JUnit.TestDemo.test02" />
+        <item itemvalue="JUnit.TestDemo.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd85bb6a-7b95-4580-ad4e-0cc884e51b58" name="Changes" comment="" />
+      <created>1663028425053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663028425053</updated>
+      <workItem from="1663028426538" duration="2353000" />
+      <workItem from="1663030829112" duration="40000" />
+      <workItem from="1663030902632" duration="189000" />
+      <workItem from="1663031333396" duration="298000" />
+      <workItem from="1663031794226" duration="10075000" />
+      <workItem from="1663201321467" duration="12068000" />
+      <workItem from="1663290219068" duration="3173000" />
+      <workItem from="1663376120738" duration="6211000" />
+      <workItem from="1663477691477" duration="6823000" />
+      <workItem from="1663491335430" duration="15839000" />
+      <workItem from="1663547021177" duration="8570000" />
+      <workItem from="1663585510176" duration="1191000" />
+      <workItem from="1663630704595" duration="15790000" />
+      <workItem from="1663734726767" duration="3239000" />
+      <workItem from="1663811307661" duration="3569000" />
+      <workItem from="1663823926873" duration="6213000" />
+      <workItem from="1663890905764" duration="13802000" />
+      <workItem from="1663979589214" duration="3689000" />
+      <workItem from="1663986440858" duration="9451000" />
+      <workItem from="1664082419722" duration="602000" />
+      <workItem from="1664188246073" duration="322000" />
+      <workItem from="1664188685966" duration="418000" />
+      <workItem from="1664459835848" duration="693000" />
+      <workItem from="1664461410148" duration="281000" />
+      <workItem from="1664524777920" duration="58000" />
+      <workItem from="1664524926091" duration="1897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/controller/CategoryController.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/handler/exception/GlobalExceptionHandler.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/impl/BlogLoginServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/impl/BlogLoginServiceImpl.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/impl/UserDetailsServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/impl/UserDetailsServiceImpl.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/handler/exception/GlobalExceptionHandler.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/controller/BlogLoginController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/impl/BlogLoginServiceImpl.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/impl/BlogLoginServiceImpl.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/handler/security/AuthenticationEntryPointImpl.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/handler/security/AuthenticationEntryPointImpl.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/handler/security/AccessDeniedHandlerImpl.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/impl/BlogLoginServiceImpl.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-admin/src/main/java/com/sangeng/controller/CategoryController.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-admin/src/main/java/com/sangeng/controller/CategoryController.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/impl/PermissionService.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sangeng-framework/src/main/java/com/sangeng/service/impl/UserDetailsServiceImpl.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/sangeng-blog/src/main/java/com/sangeng/controller/BlogLoginController.java</url>
+          <line>14</line>
+          <properties field="blogLoginService" class="com.sangeng.controller.BlogLoginController" />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
